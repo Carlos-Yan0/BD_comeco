@@ -1,0 +1,3 @@
+CREATE TABLE Tabela_B (
+    nome VARCHAR(50) NULL
+)
